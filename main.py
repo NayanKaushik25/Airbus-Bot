@@ -147,4 +147,4 @@ async def A400M(ctx):
   
 keep_alive()
   
-client.run("OTYxOTU0NzY0NzA5NTg5MDEy.YlAgMA.Ej2zEZzuqeD3z9ZhjdA7DxloYs4")
+client.run("TOKEN")
