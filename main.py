@@ -24,7 +24,7 @@ async def A300(ctx):
   embed.add_field(name="Produced: ",value="1971-2007",inline=False)
   embed.add_field(name="Engines: ",value="Pratt & Whitney PW4000 (A300-600)",inline=False)
   embed.add_field(name="First Operator: ",value="Air France",inline=True)
-  embed.set_thumbnail(url="https://upload.wikimedia.org/wikipedia/commons/6/61/Airbus_A300B2-1C%2C_Air_France_AN1091113.jpg")
+  embed.set_image(url="https://upload.wikimedia.org/wikipedia/commons/6/61/Airbus_A300B2-1C%2C_Air_France_AN1091113.jpg")
   await ctx.send(embed=embed)
 
 
@@ -35,7 +35,7 @@ async def A310(ctx):
   embed.add_field(name="Produced: ",value="1981-1998",inline=False)
   embed.add_field(name="Engines: ",value="Pratt & Whitney JT9D",inline=False)
   embed.add_field(name="First Operator: ",value="Swissair",inline=False)
-  embed.set_thumbnail(url="https://upload.wikimedia.org/wikipedia/commons/b/b5/Swissair_Airbus_A310-322%3B_HB-IPK%40ZRH%3B11.08.1994_%284847642397%29.jpg")
+  embed.set_image(url="https://upload.wikimedia.org/wikipedia/commons/b/b5/Swissair_Airbus_A310-322%3B_HB-IPK%40ZRH%3B11.08.1994_%284847642397%29.jpg")
   await ctx.send(embed=embed)
 
 
@@ -47,7 +47,7 @@ async def A320(ctx):
   embed.add_field(name="Produced: ",value="1986-Present",inline=False)
   embed.add_field(name="Engines: ",value="CFM56",inline=False)
   embed.add_field(name="First Operator: ",value="Air France")
-  embed.set_thumbnail(url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Jetstar_Airbus_A320_in_flight_%286768081241%29_crop.jpg/300px-Jetstar_Airbus_A320_in_flight_%286768081241%29_crop.jpg")
+  embed.set_image(url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Jetstar_Airbus_A320_in_flight_%286768081241%29_crop.jpg/300px-Jetstar_Airbus_A320_in_flight_%286768081241%29_crop.jpg")
   await ctx.send(embed=embed)
 
 
@@ -58,7 +58,7 @@ async def A330(ctx):
   embed.add_field(name="Produced: ",value="1992-Present",inline=False)
   embed.add_field(name="Engines: ",value="Rolls Royce Trent 7000",inline=False)
   embed.add_field(name="First Operator: ",value="Air Inter",inline=False)
-  embed.set_thumbnail(url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Turkish_Airlines%2C_Airbus_A330-300_TC-JNL_NRT_%2823708073592%29.jpg/300px-Turkish_Airlines%2C_Airbus_A330-300_TC-JNL_NRT_%2823708073592%29.jpg")
+  embed.set_image(url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Turkish_Airlines%2C_Airbus_A330-300_TC-JNL_NRT_%2823708073592%29.jpg/300px-Turkish_Airlines%2C_Airbus_A330-300_TC-JNL_NRT_%2823708073592%29.jpg")
   await ctx.send(embed=embed)
 
   
@@ -70,7 +70,7 @@ async def A340(ctx):
   embed.add_field(name="Produced: ",value="1991-2012",inline=False)
   embed.add_field(name="Engines: ",value="Rolls Royce Trent 500",inline=False)
   embed.add_field(name="First Operator: ",value="Lufthansa",inline=False)
-  embed.set_thumbnail(url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Airbus_A340-311%2C_Lufthansa_AN1936774.jpg/300px-Airbus_A340-311%2C_Lufthansa_AN1936774.jpg")
+  embed.set_image(url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Airbus_A340-311%2C_Lufthansa_AN1936774.jpg/300px-Airbus_A340-311%2C_Lufthansa_AN1936774.jpg")
   await ctx.send(embed=embed)
 
   
@@ -82,7 +82,7 @@ async def A350(ctx):
   embed.add_field(name="Produced: ",value="2010-Present",inline=False)
   embed.add_field(name="Engines: ",value="Rolls Royce Trent XWB",inline=False)
   embed.add_field(name="First Operator: ",value="Qatar Airways",inline=False)
-  embed.set_thumbnail(url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Qatar_Airways_A350-941_%28A7-ALA%29_landing_at_Frankfurt_Airport.jpg/300px-Qatar_Airways_A350-941_%28A7-ALA%29_landing_at_Frankfurt_Airport.jpg")
+  embed.set_image(url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Qatar_Airways_A350-941_%28A7-ALA%29_landing_at_Frankfurt_Airport.jpg/300px-Qatar_Airways_A350-941_%28A7-ALA%29_landing_at_Frankfurt_Airport.jpg")
   await ctx.send(embed=embed)
   
 
@@ -94,7 +94,7 @@ async def A380(ctx):
   embed.add_field(name="Produced: ",value="2003-2021",inline=False)
   embed.add_field(name="Engines: ",value="Rolls Royce Trent 900",inline=False)
   embed.add_field(name="First Operator: ",value="Singapore Airlines",inline=False)
-  embed.set_thumbnail(url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/A6-EDY_A380_Emirates_31_jan_2013_jfk_%288442269364%29_%28cropped%29.jpg/300px-A6-EDY_A380_Emirates_31_jan_2013_jfk_%288442269364%29_%28cropped%29.jpg")
+  embed.set_image(url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/A6-EDY_A380_Emirates_31_jan_2013_jfk_%288442269364%29_%28cropped%29.jpg/300px-A6-EDY_A380_Emirates_31_jan_2013_jfk_%288442269364%29_%28cropped%29.jpg")
   await ctx.send(embed=embed)
   
 
@@ -106,7 +106,7 @@ async def A220(ctx):
   embed.add_field(name="Produced: ",value="2012-Present",inline=False)
   embed.add_field(name="Engines: ",value="Pratt & Whitney PW1500G",inline=False)
   embed.add_field(name="First Operator: ",value="Swiss International Air Lines",inline=False)
-  embed.set_thumbnail(url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/YL-CSD_Bombardier_BD-500-1A100_CS300_BCS3_Airbus_A220-300_A223_c_n_55006_-_BTI_%2831100301167%29.jpg/300px-YL-CSD_Bombardier_BD-500-1A100_CS300_BCS3_Airbus_A220-300_A223_c_n_55006_-_BTI_%2831100301167%29.jpg")
+  embed.set_image(url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/YL-CSD_Bombardier_BD-500-1A100_CS300_BCS3_Airbus_A220-300_A223_c_n_55006_-_BTI_%2831100301167%29.jpg/300px-YL-CSD_Bombardier_BD-500-1A100_CS300_BCS3_Airbus_A220-300_A223_c_n_55006_-_BTI_%2831100301167%29.jpg")
   await ctx.send(embed=embed)
   
 
@@ -118,7 +118,7 @@ async def A330neo(ctx):
   embed.add_field(name="Produced: ",value="2015-Present",inline=False)
   embed.add_field(name="Engines: ",value="Rolls Royce Trent 7000",inline=False)
   embed.add_field(name="First Operator: ",value="TAP Air Portugal",inline=False)
-  embed.set_thumbnail(url="https://samchui.com/wp-content/uploads/2019/02/IMG_0666-800x500.jpg")
+  embed.set_image(url="https://samchui.com/wp-content/uploads/2019/02/IMG_0666-800x500.jpg")
   await ctx.send(embed=embed)
 
 
@@ -130,7 +130,7 @@ async def A320neo(ctx):
   embed.add_field(name="Produced: ",value="2012-Present",inline=False)
   embed.add_field(name="Engines: ",value="Pratt & Whitney PW1000G",inline=False)
   embed.add_field(name="First Operator: ",value="Lufthansa",inline=False)
-  embed.set_thumbnail(url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/IndiGo_Airbus_A320neo_F-WWDG_%28to_VT-ITI%29_%2828915135713%29.jpg/300px-IndiGo_Airbus_A320neo_F-WWDG_%28to_VT-ITI%29_%2828915135713%29.jpg")
+  embed.set_image(url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/IndiGo_Airbus_A320neo_F-WWDG_%28to_VT-ITI%29_%2828915135713%29.jpg/300px-IndiGo_Airbus_A320neo_F-WWDG_%28to_VT-ITI%29_%2828915135713%29.jpg")
   await ctx.send(embed=embed)
   
 
@@ -142,7 +142,7 @@ async def A400M(ctx):
   embed.add_field(name="Produced: ",value="2007-Present",inline=False)
   embed.add_field(name="Engines:",value="Ratier-Figeac FH385 & FH386",inline=False)
   embed.add_field(name="First Operator: ",value="French Air Force")
-  embed.set_thumbnail(url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Airbus_A400M_Atlas_of_the_Spanish_Air_Force_%28code_EC-400%29_arrives_RIAT_Fairford_18July2019_arp.jpg/220px-Airbus_A400M_Atlas_of_the_Spanish_Air_Force_%28code_EC-400%29_arrives_RIAT_Fairford_18July2019_arp.jpg")
+  embed.set_image(url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Airbus_A400M_Atlas_of_the_Spanish_Air_Force_%28code_EC-400%29_arrives_RIAT_Fairford_18July2019_arp.jpg/220px-Airbus_A400M_Atlas_of_the_Spanish_Air_Force_%28code_EC-400%29_arrives_RIAT_Fairford_18July2019_arp.jpg")
   await ctx.send(embed=embed)
   
 keep_alive()
