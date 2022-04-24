@@ -137,7 +137,7 @@ async def A320neo(ctx):
 
 @client.command()
 async def A400M(ctx):
-  embed=discord.Embed(title="Airbus A400M",color=discord.Colour.green())
+  embed=discord.Embed(title="Airbus A400M",color=discord.Colour.orange())
   embed.add_field(name="Basic Info: ",value="The Airbus A400M is a European Four Engined Turboprop Military Aircraft by Airbus Industrie.",inline=False)
   embed.add_field(name="Produced: ",value="2007-Present",inline=False)
   embed.add_field(name="Engines: Ratier-Figeac FH385 & FH386",inline=False)
